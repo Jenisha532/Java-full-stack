@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h2>Flowers name</h2>
+
+
+<ul>
+  <li>jasmine</li>
+  <li>hibiscus</li>
+  <li>lotus</li>
+  <li>tulip</li>
+  <li>sunflower</li>
+  <li>rose</li>
+  <li>lily</li>
+  <li>marigold</li>
+  <li>daisy</li>
+  <li>lavendar</li>
+</ul>  
+
+
+<h2>Kanyakumari tourist places</h2>
+
+
+<ol>
+  <li>chinna muttam</li>
+  <li>vivekanandha rock memorial</li>
+  <li>nagaraja temple</li>
+  <li>padmanadhapuram palace</li>
+  <li>thiruparappu waterfalls</li>
+  <li>udhaygiri fort</li>
+  <li>lemur beach</li>
+  <li>pechiparai dam</li>
+  <li>kalikesam</li>
+  <li>mathoor thothi palam</li>
+</ol> 
+<p>innovate today,inspire tomorrow</p>
+</body>
+</html>
+
+
+
